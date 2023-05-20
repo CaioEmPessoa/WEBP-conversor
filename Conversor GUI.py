@@ -6,8 +6,6 @@ import os
 
 root = tk.Tk()
 root.title('Image Conversor')
-root.iconbitmap(
-    'D:\Área de Trabalho do hd\coisas que não sei aonde po\icones/5.ico')
 
 #  __BACKEND__  #
 
