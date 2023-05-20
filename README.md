@@ -2,7 +2,11 @@
 
 <h2>Guia de instalação:</h2>
 Para usar esse app, você só precisa baixar a versão mais recente do Python e a biblioteca "pillow".
-Para isso, abra o terminal depois de baixar o Python e digite "pip install pillow".
+Para isso, abra o terminal depois de baixar o Python e digite o abaixo:
+
+'''
+"pip install pillow
+'''
 
 <h2> Como usar: </h2>
 <h2>Versão com GUI (Interface Gráfica do Usuário)</h2>
@@ -28,8 +32,12 @@ O Terminal é mais simples e rápido. Basta colocar o arquivo .py na pasta onde 
 <h2> English Tutorial: </h2>
 <h2> Installation guide: <h2>
 To use this app you just need to download the newest version of python, and the "pillow" library.
-To do this, just open your terminal after downloading python and type "pip install pillow"
-
+To do this, just open your terminal after downloading python and type this:
+ 
+'''
+pip install pillow
+'''
+  
 <h2> For the GUI version (Graphical User Interface) </h2>
 
 This one is if you're gonna do more complex stuff, like convert a heavy image, convert images and a gif at the same time, or do some of the other features: <br>
